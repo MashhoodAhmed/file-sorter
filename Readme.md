@@ -22,10 +22,10 @@ The script scans a specified directory and moves files into categorized folders 
 
 ## Installation
 Clone the repository:
-```bash
 git clone https://github.com/your-username/file-sorter.git
+
 cd file-sorter
-Usage
+## Usage
 
 Run the script using Python:
 
@@ -36,7 +36,7 @@ When prompted, enter the full path of the folder to be sorted:
 
 Enter the folder location: C:\Users\YourName\Downloads
 
-Example
+## Example
 
 Before:
 
