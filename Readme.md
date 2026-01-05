@@ -35,38 +35,3 @@ python file_sorter.py
 When prompted, enter the full path of the folder to be sorted:
 
 Enter the folder location: C:\Users\YourName\Downloads
-
-## Example
-
-Before:
-
-photo.jpg
-
-script.py
-
-report.pdf
-
-notes.txt
-
-archive.zip
-
-
-After:
-
-Images/
-
-  photo.jpg
-
-Code/
-
-  script.py
-
-Documents/
-
-  report.pdf
-
-  notes.txt
-
-Others/
-
-  archive.zip
