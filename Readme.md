@@ -41,20 +41,32 @@ Enter the folder location: C:\Users\YourName\Downloads
 Before:
 
 photo.jpg
+
 script.py
+
 report.pdf
+
 notes.txt
+
 archive.zip
 
 
 After:
 
 Images/
+
   photo.jpg
+
 Code/
+
   script.py
+
 Documents/
+
   report.pdf
+
   notes.txt
+
 Others/
+
   archive.zip
